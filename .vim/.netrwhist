@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/etc/scl/prefixes'
+let g:netrw_dirhist_2='/opt/rh/python27'
+let g:netrw_dirhist_3='/home/tslkcy/Projects/POEM-GPU_multi_newRayDispatch/src/PTD'
+let g:netrw_dirhist_4='/home/tslkcy/Projects/POEM-GPU_multi_newRayDispatch/src/OptixTracer'
+let g:netrw_dirhist_5='/home/tslkcy/Projects/POEM-GPU_multi_newRayDispatch/src/PTD'
+let g:netrw_dirhist_6='/home/tslkcy/Projects/POEM-GPU_MultiFreq/src/CudaReduction'
+let g:netrw_dirhist_7='/home/tslkcy/Projects/testPOEM/testBistatic/DCR'
+let g:netrw_dirhist_8='/home/tslkcy/Projects/POEM-GPU_MultiFreq/src/OptixTracer'
+let g:netrw_dirhist_9='/home/tslkcy/.vim/autoload'
